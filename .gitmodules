@@ -1,0 +1,6 @@
+[submodule "model"]
+	path = model
+	url = https://github.com/sagravela/ecommerce-recommender.git
+[submodule "data"]
+	path = data
+	url = https://github.com/sagravela/ecommerce-data.git

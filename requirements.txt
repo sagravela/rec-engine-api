@@ -1,0 +1,4 @@
+pydantic
+fastapi
+uvicorn
+git+https://github.com/sagravela/rec_engine.git#egg=rec-engine[serving]

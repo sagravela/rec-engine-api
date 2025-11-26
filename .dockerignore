@@ -1,0 +1,20 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Git & IDE
+.git
+.gitignore
+.idea/
+.vscode/
